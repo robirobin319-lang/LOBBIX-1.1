@@ -1,0 +1,6 @@
+{
+  "name": "LOBBIX",
+  "description": "Esports tournament platform for Free Fire, Ludo, and Carrom with live match hubs, wallet management, leaderboards, and full Owner Admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
